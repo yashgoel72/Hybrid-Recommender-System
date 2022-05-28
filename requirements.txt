@@ -1,0 +1,16 @@
+Flask
+gunicorn
+Cython
+scikit-surprise
+Jinja2
+MarkupSafe
+Werkzeug
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn
+pandas>=0.19
+tmdbv3api==1.6.1
+Fiona
+urllib3
+requests
+pickleshare
