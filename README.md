@@ -42,6 +42,7 @@ I tried to build a simple hybrid recommender that brings together techniques use
 * Python
 * JavaScript
 * HTML,CSS
+* Jupyter NoteBook
 * Flask
 * Numpy,Pandas,Scikit-learn
 * Scikit-Surprise, NLTK
